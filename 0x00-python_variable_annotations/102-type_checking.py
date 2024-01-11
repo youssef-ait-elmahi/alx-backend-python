@@ -4,7 +4,7 @@ This module contains a function that returns a list with each
 element of the input list repeated a number of times.
 """
 
-from typing import List, Tuple
+from typing import List, Tuple, Union
 
 
 def zoom_array(lst: Tuple, factor: int = 2) -> List:
