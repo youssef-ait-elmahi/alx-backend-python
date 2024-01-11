@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 This module contains a function that returns
 the value of a key in a dictionary or a default value.
