@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """
-Module for 1. Let's execute multiple coroutines at the same time with async.
-0x01. Python - Async
-Holberton Web Stack programming Spec ― Back-end
+async routine called wait_n that takes in 2 int arguments
 """
 import asyncio
 from typing import List
